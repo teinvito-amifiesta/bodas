@@ -1050,7 +1050,7 @@ Desliza las fotos →
   event_time: 'A las 19hs',
   event_location: 'Salón de Eventos La Soñada, Dirección: ex Ruta 234, Centenario',
 
-  dress_code_text: 'Elegante Sport',
+  dress_code_text: 'Elegante Sport - El color blanco queda reservado para la novia',
 
   // 🎁 REGALO
   cbu: '00000031000000000000008',
